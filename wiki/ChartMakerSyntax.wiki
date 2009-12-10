@@ -30,5 +30,7 @@ To use these charts in wave, please follow below syntax:
 
 === Examples ===
 
-  p3 10,30,60,43
+{{{
+  [p3 10,30,60,43]
+}}
     [http://chart.apis.google.com/chart?chs=250x100&chl=10|30|60|43&chdl=10|30|60|43&cht=p3&chd=t:10,30,60,43.png]
