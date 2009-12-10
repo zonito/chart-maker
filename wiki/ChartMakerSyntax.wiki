@@ -28,7 +28,7 @@ To use these charts in wave, please follow below syntax:
     [r Values] (Radar Chart)
   }}}
 
-=== Examples ===
+=== Example ===
 
   {{{
   [p3 10,30,60,43]
